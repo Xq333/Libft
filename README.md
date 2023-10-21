@@ -35,6 +35,6 @@ This project was completed as part of my 42 school curriculum.
 
 The code for this project is provided under the MIT License.
 
-Feel free to reach out if you have any questions or need further information about the **get_next_line** project.
+Feel free to reach out if you have any questions or need further information about the **Libft** project.
 
 Happy coding! 🚀

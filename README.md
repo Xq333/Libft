@@ -26,3 +26,15 @@ You can use the functions from the **Libft** library in your C programs by inclu
 
 ```shell
 make
+```
+## Credits
+
+This project was completed as part of my 42 school curriculum.
+
+## License
+
+The code for this project is provided under the MIT License.
+
+Feel free to reach out if you have any questions or need further information about the **get_next_line** project.
+
+Happy coding! 🚀
